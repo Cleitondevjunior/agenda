@@ -6,8 +6,8 @@ import psycopg2
 DB_CONFIG = {
     'host': 'localhost',
     'dbname': 'db_agenda',
-    'user': 'postgres',
-    'password': 'root',
+    'user': '',
+    'password': '',
     'port': 5432
 }
 
